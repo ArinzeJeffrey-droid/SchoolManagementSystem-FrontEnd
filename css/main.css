@@ -12,6 +12,7 @@ body {}
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100%;
+    box-shadow: 0 8px 6px -6px black;
 }
 
 .navigation-bar {
@@ -51,4 +52,10 @@ body {}
 .landing-header p {
     font-size: 20px;
     margin-bottom: 20px;
+}
+
+.home-content {
+    border: 1px solid red;
+    height: 300px;
+    margin-top: 30px;
 }
