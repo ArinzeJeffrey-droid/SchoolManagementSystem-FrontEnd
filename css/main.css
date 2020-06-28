@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {}
+
+.top-nav {
+    border: 1px solid red;
+    height: 500px;
+    background-image: url("../img/sms2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+}
+
+nav {
+    display: flex;
+    border: 1px solid black;
+    align-content: flex-end;
+}
+
+ul {
+    border: 1px solid green;
+    width: 60%;
+}
